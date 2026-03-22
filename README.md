@@ -77,7 +77,7 @@ Users need to modify the dataset paths to match their local or cloud environment
 
 ##  Repository Structure
 
-* `data/` – raw and processed data
+* `USDJPY_Data/Data/` – raw and processed data
 * `notebooks/` – analysis and experiments
 
 ---
